@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arpan5312
 - 👀 I’m interested in SaaS
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me arpanop934@gmail.com
 - 😄 Pronouns: he/his
