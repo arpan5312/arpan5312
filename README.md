@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @arpan5312
-- 👀 I’m interested in SaaS
-- 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me arpanop934@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Arpan  
 
-<!---
-arpan5312/arpan5312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 14 year old teenager on a long-term journey to master **AI/ML from first principles**
+📝 Interested in collaborating with startups and internships.
+📚 Currently focused on **Python fundamentals** and the **mathematics behind ML**  
+🌍 Goal: to build a deep technical foundation and develop AI models from scratch
+
+## 🔥 Current Focus
+- Writing clean, well-structured Python code  
+- Strengthening math → algorithms → ML links  
+- Documenting my learning step by step on GitHub  
+
+## 📫 Reach Me
+- Email: arpanop934@gmail.com
