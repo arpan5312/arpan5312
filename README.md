@@ -2,10 +2,12 @@
 <h3 align="center">C++ • Python • Systems • Backend • Security</h3>
 
 <p align="center">
-  <img src=https://camo.githubusercontent.com/a0f0e41d68ac1bdc551c7037f6b4983d233285659b500b887bfdf4164ec25d7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966 width="420"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7f5af0&height=120&section=header"/>
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F5AF0&center=true&vCenter=true&lines=Systems+%2F+Backend;C%2B%2B+%7C+Python;Low-level+%2F+Security;Build.+Break.+Refactor." />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpan5312&style=flat-square&color=7f5af0"/>
@@ -19,7 +21,7 @@
 - interested in **backend engineering**, **low-level**, **red teaming**
 - exploring **AI / ML** with a systems-first approach
 
-I like code that’s fast, readable, and hard to break.
+I like code that’s fast, readable, and resilient.
 
 ---
 
@@ -55,12 +57,8 @@ I like code that’s fast, readable, and hard to break.
 
 ---
 
-
-
----
-
 ## 🧩 repos
 - backend & systems projects (Python-heavy)
-- competitive programming + low-level work (C++)
+- competitive programming & low-level work (C++)
 - security experiments & labs
 - projects that evolve instead of being abandoned
