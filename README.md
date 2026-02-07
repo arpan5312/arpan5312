@@ -40,7 +40,12 @@ I like code that’s fast, readable, and resilient.
 ### security / low-level
 <p>
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
+
 
 ### ai / ml (learning)
 <p>
